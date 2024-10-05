@@ -1,0 +1,3 @@
+[submodule "Classwork"]
+	path = Classwork
+	url = git@github.com:ChiefBryce/Classwork.git
